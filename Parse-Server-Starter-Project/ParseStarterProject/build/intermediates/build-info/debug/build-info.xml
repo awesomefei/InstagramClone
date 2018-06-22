@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    build-mode="COLD"
+    density="hdpi"
+    format="10"
+    ir-eligibility="IMPLEMENTED_INTERFACES_CHANGE"
+    plugin-version="3.1.3"
+    timestamp="1529647845739"
+    token="-1259383660197658981"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1037" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="60" />
+    <task
+        name="verifier"
+        duration="14" />
+
+    <artifact
+        location="/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/instant-run-apk/debug/ParseStarterProject-debug.apk"
+        type="SPLIT_MAIN" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1529631741146"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/instant-run-apk/debug/ParseStarterProject-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="CLASS_ADDED"
+        timestamp="1529647450349"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/instant-run-apk/debug/ParseStarterProject-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="IMPLEMENTED_INTERFACES_CHANGE"
+        timestamp="1529647845739"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/instant-run-apk/debug/ParseStarterProject-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+
+</instant-run>
