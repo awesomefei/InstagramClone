@@ -108,12 +108,12 @@
         "source": "/Users/boyi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1ab693e9761d6a6615eebc2cb0bb8050/res/drawable-xxhdpi-v4/quantum_ic_pause_grey600_36.png"
     },
     {
-        "merged": "/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_quantum_ic_replay_30_grey600_36.png.flat",
-        "source": "/Users/boyi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1ab693e9761d6a6615eebc2cb0bb8050/res/drawable-xxhdpi-v4/quantum_ic_replay_30_grey600_36.png"
-    },
-    {
         "merged": "/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_quantum_ic_pause_circle_filled_grey600_36.png.flat",
         "source": "/Users/boyi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1ab693e9761d6a6615eebc2cb0bb8050/res/drawable-mdpi-v4/quantum_ic_pause_circle_filled_grey600_36.png"
+    },
+    {
+        "merged": "/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_quantum_ic_replay_30_grey600_36.png.flat",
+        "source": "/Users/boyi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1ab693e9761d6a6615eebc2cb0bb8050/res/drawable-xxhdpi-v4/quantum_ic_replay_30_grey600_36.png"
     },
     {
         "merged": "/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_quantum_ic_skip_previous_grey600_36.png.flat",
@@ -630,6 +630,10 @@
     {
         "merged": "/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_cast_ic_notification_on.png.flat",
         "source": "/Users/boyi/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/dd2eefcb23e8f2c09049b19849af4e66/res/drawable-xhdpi-v4/cast_ic_notification_on.png"
+    },
+    {
+        "merged": "/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_user_list.xml.flat",
+        "source": "/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_user_list.xml"
     },
     {
         "merged": "/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
@@ -2320,6 +2324,10 @@
         "source": "/Users/boyi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1ab693e9761d6a6615eebc2cb0bb8050/res/drawable-xxxhdpi-v4/quantum_ic_volume_off_white_36.png"
     },
     {
+        "merged": "/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable_adt.png.flat",
+        "source": "/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/drawable/adt.png"
+    },
+    {
         "merged": "/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "/Users/boyi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b80475bee4a0fa08cb6fb61b721e45ab/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
@@ -3346,6 +3354,10 @@
     {
         "merged": "/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_quantum_ic_replay_10_white_24.png.flat",
         "source": "/Users/boyi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1ab693e9761d6a6615eebc2cb0bb8050/res/drawable-hdpi-v4/quantum_ic_replay_10_white_24.png"
+    },
+    {
+        "merged": "/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout-v14_activity_main.xml.flat",
+        "source": "/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout-v14/activity_main.xml"
     },
     {
         "merged": "/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_plus_signin_btn_text_light_focused.9.png.flat",

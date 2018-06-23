@@ -1,4 +1,4 @@
-#Fri Jun 22 10:40:26 PDT 2018
+#Fri Jun 22 18:50:40 PDT 2018
 base.0=/Users/boyi/Documents/Android/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/2
 path.0=classes.dex
 renamed.0=classes.dex
